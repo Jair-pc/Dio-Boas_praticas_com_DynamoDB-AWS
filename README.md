@@ -1,7 +1,19 @@
+<h1 align="center">
+  <br>
+  <img src="https://hermes.digitalinnovation.one/tracks/342f7392-a8b5-421f-bea9-d29f1fd8aae9.png" alt="logo" height="300">
+</h1>
+
+#### Geração Tech Unimed-BH - Ciência de Dados    -   DIO - Digital Innovation One Inc. 
+
+# Boas práticas com DynamoDB - AWS
+
+## Professor: Cassiano Peres
+
 # dio-live-dynamodb
-Repositório para o live coding do dia 30/09/2021 sobre o Amazon DynamoDB
+Repositório para o live coding do dia 25/10/2022 sobre o Amazon DynamoDB
 
 ### Serviço utilizado
+  - AWS
   - Amazon DynamoDB
   - Amazon CLI para execução em linha de comando
 
